@@ -1,4 +1,4 @@
-# ANG-004
+# A comparative analysis of native English speakers with native Amharic speakers in their English writings
 
 This repository contains a Python program developed for a project in a Text Analysis (CS 401) course. I investigated the influence of native language syntax on second language writing, specifically focusing on Amharic speakers writing in English. 
 Amharic typically follows a subject-object-verb (SOV) order, whereas English adopts a subject-verb-object (SVO) structure. That being said, I hypothesized that Ethiopian writers, whose first language is Amharic, will exhibit traces of SOV word order in their English writings, deviating from the standard SVO order.
